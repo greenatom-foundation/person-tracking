@@ -1,6 +1,6 @@
 # Person tracking
 
-![tracking](https://habrastorage.org/webt/cs/te/hx/cstehxj5rouuyq0jzox2to4vvi8.gif)
+![tracking](docs/01.gif)
 
 ## Задача
 
